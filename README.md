@@ -11,7 +11,7 @@
    - Communication Interface : UART, I/O, I²C
    - Dimensions (L*W*H) : 35 mm × 21.25 mm × 13.5 mm
      
-2. [TF-Nova](https://en.benewake.com/tf-nova)
+2. [TF-NOVA](https://en.benewake.com/tf-nova)
    - Single-point LiDAR
    - Operating Range : 14 m
    - Enclosure Rating : N/A
