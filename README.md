@@ -4,6 +4,7 @@
 - 자율주행차량, 로봇 공학, 3D 매핑, 지형 측량 등 다양한 분야에서 주변 환경을 실시간으로 인식하고 3차원 데이터를 생성하는 데 사용됩니다. 
 # [Benewake](https://en.benewake.com/IndustrialProduct)
 1. [TF-Luna](https://en.benewake.com/TFLuna)
+   - Single-point LiDAR
    - Operating Range : 0.2 ~ 8 m
    - Enclosure Rating : N/A
    - Detecting Accuracy : ± 6 cm @ (0.2 ~ 3 m), ± 2% @ (3 ~ 8 m) 
@@ -11,8 +12,9 @@
    - Dimensions (L*W*H) : 35 mm × 21.25 mm × 13.5 mm
      
 2. [TF-Nova](https://en.benewake.com/tf-nova)
+   - Single-point LiDAR
    - Operating Range : 14 m
    - Enclosure Rating : N/A
    - Detecting Accuracy : ± 5 cm (0.1 ~ 4 m)
-   - Communication Interface :UART, I/O, I²C
+   - Communication Interface : UART, I/O, I²C
    - Dimensions (L*W*H): 26.5 mm × 21.05 mm × 12 mm
